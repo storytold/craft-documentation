@@ -5,7 +5,7 @@ This repository contains Markdown starter pages and app icons for building the T
 ## Suggested TileDocs tree
 
 ```text
-ArtCraft Documentation
+Craft Wiki
 ├── ArtCraft Studio
 ├── PhotoCraft
 ├── VectorCraft

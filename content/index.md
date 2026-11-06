@@ -1,4 +1,4 @@
-# ArtCraft Documentation
+# Craft Wiki
 
 Browse setup guides, workflows, and troubleshooting by app. In TileDocs, use this page as the home page and turn each app entry into an Image Card linking to that app’s Overview page.
 
