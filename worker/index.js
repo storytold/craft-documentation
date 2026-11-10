@@ -27,7 +27,7 @@ const base64url = (bytes) =>
   btoa(String.fromCharCode(...new Uint8Array(bytes)))
     .replace(/\+/g, '-')
     .replace(/\//g, '_')
-    .replace(/=+$/, '');
+    .replace(/=/g, '');
 
 const fromBase64url = (text) =>
   Uint8Array.from(atob(text.replace(/-/g, '+').replace(/_/g, '/')), (c) => c.charCodeAt(0));
@@ -433,9 +433,7 @@ const proxyGithub = async (request, url, env) => {
       permissions: {
         admin: false,
         maintain: true,
-        push: true,
         triage: true,
-        pull: true,
         ...(repo.permissions ?? {}),
         push: true,
         pull: true,
