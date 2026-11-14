@@ -2,7 +2,7 @@
 title: Paint with brushes and variable widths
 description: Apply calligraphic, scatter, art, pattern and bristle brushes to paths, paint with the Paintbrush and Blob Brush, make and save your own brushes, and change a stroke's width with the Width tool.
 sidebar:
-  order: 13.5
+  order: 13.9
 type: guide
 category: Color and paint
 subcategory: Brushes
@@ -63,7 +63,7 @@ The brush becomes the current brush, which the Paintbrush paints with. To make a
 
 To take the brush off a path and leave a plain stroke, select the path and click **Remove Brush Stroke** at the bottom of the panel, or choose it from the panel menu. To select every path that uses a brush, choose **Select → Object → Brush Strokes**, or **Select → Object → Bristle Brush Strokes** for the paths that use a bristle brush. For more ways to select, see [Select artwork](/apps/vectorcraft/select-artwork/).
 
-A brush stroke takes its color from the stroke color. A scatter, art or pattern brush also uses its Colorization setting, which [Change a brush's options](#change-a-brushs-options) describes. To change the stroke color and weight, see [Fill, stroke and color](/apps/vectorcraft/fill-stroke-and-color/).
+A brush stroke takes its color from the stroke color. A scatter, art or pattern brush also uses its Colorization setting, which [Change a brush's options](#change-a-brushs-options) describes. To change the stroke color and weight, see [Fill, stroke and color](/apps/vectorcraft/fill-stroke-and-color/). To set the stroke's caps, corners, dashes, arrowheads and width profile in the Stroke panel, see [Style strokes with dashes, arrowheads and profiles](/apps/vectorcraft/style-strokes/).
 
 ## Paint with the Paintbrush
 
@@ -284,6 +284,7 @@ An expanded brush stroke no longer follows a path. To change its shape or brush 
 - [Workflows](/apps/vectorcraft/workflows/)
 - [Draw and edit paths](/apps/vectorcraft/draw-and-edit-paths/)
 - [Fill, stroke and color](/apps/vectorcraft/fill-stroke-and-color/)
+- [Style strokes with dashes, arrowheads and profiles](/apps/vectorcraft/style-strokes/)
 - [Select artwork](/apps/vectorcraft/select-artwork/)
 - [Apply effects and appearance](/apps/vectorcraft/apply-effects-and-appearance/)
 - [Organize with layers and symbols](/apps/vectorcraft/organize-with-layers-and-symbols/)

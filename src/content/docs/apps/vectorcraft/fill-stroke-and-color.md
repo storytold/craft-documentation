@@ -105,6 +105,8 @@ When you delete a global swatch, art that uses it keeps its color but loses the 
 
 To use ready-made colors, choose **Window → Swatch Libraries** and pick a library. **Open Swatch Library** and **Save Swatch Library…** in the Swatches panel menu open a library file or save the document's swatches as one.
 
+To group, edit, merge, sort and clean up the swatches in a document, see [Organize swatches and color groups](/apps/vectorcraft/organize-swatches-and-color-groups/).
+
 ## Find colors that go together with the Color Guide
 
 The Color Guide panel builds a set of colors from one base color by a harmony rule, and shows lighter and darker versions of each. Choose **Window → Color Guide** (**Shift+F3**) to open it.
@@ -184,6 +186,8 @@ To change the weight of the selected strokes by one step, press **Ctrl+Alt+.** (
 A dash length of 0 with a round cap draws a row of dots.
 :::
 
+For dashes, arrowheads and width profiles step by step, see [Style strokes with dashes, arrowheads and profiles](/apps/vectorcraft/style-strokes/).
+
 ## Build a gradient
 
 Choose **Window → Gradient** (**Ctrl+F9**, or **Cmd+F9** on macOS) to open the Gradient panel. Clicking the ramp or a type button applies a gradient to the active box. A new gradient runs from white to black.
@@ -209,6 +213,8 @@ A conic gradient sweeps its stops once around its center, clockwise from the gra
 To save the gradient as a swatch, choose **Add to Swatches** from the Gradient panel menu.
 
 ![A Ferris wheel on teal hills under a violet-to-coral linear gradient sky, with a radial gradient sun behind it. The wheel's rim is selected, and the Gradient panel shows its thick stroke painted with a cyan-to-magenta gradient along the stroke](/assets/uploads/vectorcraft/gradient-types.webp)
+
+To place color points anywhere in a shape, see [Paint with freeform gradients](/apps/vectorcraft/paint-with-freeform-gradients/).
 
 ### Edit a gradient on the canvas
 
@@ -368,3 +374,6 @@ For overprinting, spot colors, color settings and soft proofing, see [Manage col
 - [Paint with brushes](/apps/vectorcraft/paint-with-brushes/)
 - [Make patterns, blends and repeats](/apps/vectorcraft/make-patterns-blends-and-repeats/)
 - [Manage color and proof](/apps/vectorcraft/manage-color-and-proof/)
+- [Organize swatches and color groups](/apps/vectorcraft/organize-swatches-and-color-groups/)
+- [Paint with freeform gradients](/apps/vectorcraft/paint-with-freeform-gradients/)
+- [Style strokes with dashes, arrowheads and profiles](/apps/vectorcraft/style-strokes/)
