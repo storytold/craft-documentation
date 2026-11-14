@@ -111,6 +111,7 @@ To show the rulers, choose **View → Rulers → Show Rulers** (**Ctrl+R**, or *
 
 - [Keyboard shortcuts](/apps/vectorcraft/keyboard-shortcuts/)
 - [Object menu](/apps/vectorcraft/object-menu/)
+- [Type, Select and Effect menus](/apps/vectorcraft/type-select-and-effect-menus/)
 - [Select artwork](/apps/vectorcraft/select-artwork/)
 - [Arrange, group and align](/apps/vectorcraft/arrange-group-and-align/)
 - [Draw and edit paths](/apps/vectorcraft/draw-and-edit-paths/)

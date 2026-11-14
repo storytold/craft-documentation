@@ -34,7 +34,7 @@ The buttons at the bottom of the panel, from left to right:
 
 | Button | What it does |
 |--------|--------------|
-| **Swatch Libraries Menu** | Lists the swatch libraries you can open. |
+| **Swatch Libraries Menu** | Lists the swatch libraries you can open. See [Use swatch libraries](/apps/vectorcraft/use-swatch-libraries/). |
 | **Show Swatch Kinds** | Filters the list by kind. The button stays lit while a filter other than **Show All Swatches** is on. |
 | **Swatch Options** | Opens Swatch Options for the one selected swatch. When a color group is selected, this button becomes **Edit or Apply Color Group**. |
 | **New Color Group** | Opens New Color Group. |
@@ -69,7 +69,7 @@ Both options are available only with **Selected Artwork**.
 
 1. Click the group's folder in the panel to select it.
 2. Choose **Edit or Apply Color Group…** from the panel menu, click the **Edit or Apply Color Group** button at the bottom of the panel, or double-click the folder.
-3. Recolor Artwork opens with the group's colors. Change them there and click **OK**.
+3. Recolor Artwork opens with the group's colors. Change them there and click **OK**. See [Recolor artwork](/apps/vectorcraft/recolor-artwork/).
 
 To take the swatches out of a group, select the group and choose **Ungroup Color Group** from the panel menu. Its swatches move to the end of the ungrouped swatches and the folder is removed, in one undo step.
 
@@ -94,7 +94,7 @@ To take the swatches out of a group, select the group and choose **Ungroup Color
 Some swatches open differently:
 
 - A tint swatch opens Swatch Options for the global color it is a tint of.
-- A gradient swatch shows only its name and the gradient, so you can rename it.
+- A gradient swatch shows only its name and the gradient, so you can rename it. See [Save and reuse gradients](/apps/vectorcraft/save-and-reuse-gradients/).
 - A pattern swatch opens pattern editing.
 - **[None]** has no options.
 
@@ -162,5 +162,8 @@ For more about pasting from other documents and apps, see [Copy and paste betwee
 
 - [Workflows](/apps/vectorcraft/workflows/)
 - [Fill, stroke and color](/apps/vectorcraft/fill-stroke-and-color/)
+- [Recolor artwork](/apps/vectorcraft/recolor-artwork/)
+- [Use swatch libraries](/apps/vectorcraft/use-swatch-libraries/)
+- [Save and reuse gradients](/apps/vectorcraft/save-and-reuse-gradients/)
 - [Manage color and proof](/apps/vectorcraft/manage-color-and-proof/)
 - [Copy and paste between apps](/apps/vectorcraft/copy-and-paste-between-apps/)

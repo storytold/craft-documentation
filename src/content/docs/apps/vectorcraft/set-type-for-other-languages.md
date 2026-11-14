@@ -141,5 +141,6 @@ A code that starts with 0 types the character from the system's ANSI code page, 
 - [Check spelling](/apps/vectorcraft/check-spelling/)
 - [Make lists and fit type to its frame](/apps/vectorcraft/make-lists-and-fit-type/)
 - [Set Japanese type](/apps/vectorcraft/set-japanese-type/)
+- [Set right-to-left and Indic type](/apps/vectorcraft/set-right-to-left-and-indic-type/)
 - [Preferences](/apps/vectorcraft/preferences/)
 - [Keyboard shortcuts](/apps/vectorcraft/keyboard-shortcuts/)

@@ -294,7 +294,7 @@ The panel menu holds these commands:
 
 ## Rotate, reflect, scale and shear
 
-The Rotate, Reflect, Scale and Shear tools transform the selection about a reference point. The point starts at the center of the selection.
+The Rotate, Reflect, Scale and Shear tools transform the selection about a reference point. The point starts at the center of the selection. [Rotate, reflect, scale and shear objects](/apps/vectorcraft/rotate-reflect-scale-and-shear-objects/) has worked examples for these tools: rotating about a point, making a mirrored copy, scaling by an exact amount and shearing a shadow.
 
 1. Select the objects and pick a transform tool.
 2. Click on the canvas to move the reference point, for example onto a corner. When Smart Guides or **Snap to Point** is on, a clicked point snaps to the nearest anchor or center.
@@ -307,7 +307,7 @@ The **Shear Tool** and the **Reshape Tool** are in the Scale tool's group.
 - With the Shear tool, the direction you drag chooses the axis: a mostly horizontal drag shears horizontally, and a mostly vertical drag shears vertically. Hold **Shift** to keep the drag on that axis and keep the height (horizontal shear) or width (vertical shear) of the selection.
 - With the Reshape tool, drag a point on a selected path. VectorCraft adds an anchor point there when the path has none, and the path around the point moves smoothly with it.
 
-The **Free Transform Tool** (E) shows the bounding box. Drag a handle to scale, drag outside a corner to rotate, and drag inside the box to move.
+The **Free Transform Tool** (E) shows the bounding box. Drag a handle to scale, drag outside a corner to rotate, and drag inside the box to move. [Distort with the Free Transform tool](/apps/vectorcraft/distort-with-the-free-transform-tool/) describes the tool's widget and its **Perspective Distort** and **Free Distort** modes, in which you drag the corners of the selection.
 
 **Object → Transform** holds the same transforms as dialogs: **Transform Again**, **Move…**, **Rotate…**, **Reflect…**, **Scale…**, **Shear…**, **Transform Each…** and **Reset Bounding Box**. **Transform Each…** transforms every selected object about the reference point of its own bounding box. The same submenu appears when you right-click the canvas with objects selected.
 
@@ -394,6 +394,8 @@ Transform Again repeats the last transform on whatever is selected now. If you c
 - [Draw in perspective](/apps/vectorcraft/draw-in-perspective/)
 - [Select artwork](/apps/vectorcraft/select-artwork/)
 - [Select and move objects](/apps/vectorcraft/select-and-move-objects/)
+- [Rotate, reflect, scale and shear objects](/apps/vectorcraft/rotate-reflect-scale-and-shear-objects/)
+- [Distort with the Free Transform tool](/apps/vectorcraft/distort-with-the-free-transform-tool/)
 - [Transform strokes, corners and patterns](/apps/vectorcraft/transform-strokes-corners-and-patterns/)
 - [Copy and paste between apps](/apps/vectorcraft/copy-and-paste-between-apps/)
 - [Make patterns, blends and repeats](/apps/vectorcraft/make-patterns-blends-and-repeats/)

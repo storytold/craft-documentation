@@ -161,6 +161,7 @@ To open a library that is not in the list, choose **Window → Graphic Style Lib
 ## Related
 
 - [Apply effects and appearance](/apps/vectorcraft/apply-effects-and-appearance/)
+- [Add shadows, glows and scribbles](/apps/vectorcraft/add-shadows-glows-and-scribbles/)
 - [Select artwork](/apps/vectorcraft/select-artwork/)
 - [Work with styles and long text](/apps/vectorcraft/work-with-styles-and-long-text/)
 - [Panels](/apps/vectorcraft/panels/)

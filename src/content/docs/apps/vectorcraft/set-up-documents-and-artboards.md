@@ -51,7 +51,7 @@ This page shows how to start a new document from a preset or your own size, then
 **New Without Dialog** (**Ctrl+Alt+N**, or **Cmd+Option+N** on macOS) makes a document with the settings the New Document dialog would open on, without showing the dialog.
 :::
 
-To start from a template, choose **File → New from Template…** (**Ctrl+Shift+N**, or **Cmd+Shift+N** on macOS) and pick the file. It opens as a new untitled document.
+To start from a template, choose **File → New from Template…** (**Ctrl+Shift+N**, or **Cmd+Shift+N** on macOS) and pick the file. It opens as a new untitled document. To make and change templates, see [Start documents from a template](/apps/vectorcraft/start-from-a-template/).
 
 ## Add and arrange artboards
 
@@ -253,7 +253,7 @@ Each ruler guide is an object on a layer. A new guide goes on the current layer,
 | **Release Guides** | Ctrl+Alt+5 | Cmd+Option+5 | Turns the selected guides into paths with no fill or stroke. With no guide selected, it releases every guide that was made from a path |
 | **Clear Guides** | None | None | Deletes every guide in the document |
 
-**Make Guides** is also in the menu that opens when you right-click selected objects. When you right-click an empty part of the canvas, the menu has **Show Rulers**, **Show Grid**, **Hide Guides** and **Lock Guides**.
+**Make Guides** is also in the menu that opens when you right-click selected objects. When you right-click an empty part of the canvas, the menu has **Show Rulers**, **Show Grid**, **Hide Guides** and **Lock Guides**. To build margin, column and row guides for a page layout, see [Lay out pages with guides](/apps/vectorcraft/lay-out-pages-with-guides/).
 
 Two settings in **Preferences → Guides & Grid** change how guides behave. Both are off by default.
 
@@ -271,7 +271,7 @@ The grid and the snapping commands are in the **View** menu:
 | **Snap to Glyph** | None | None | Snaps art you draw to the bounds of live type, and on a single line of type to its baseline, x-height, character widths and glyph anchor points | Off |
 | **Smart Guides** | Ctrl+U | Cmd+U | Shows temporary guides and snaps to the edges, centers and anchor points of art and artboards | On |
 
-The **Snapping** menu at the left of the Control bar has **Smart Guides**, **Snap to Point**, **Snap to Grid**, **Snap to Pixel** and **Snap to Glyph**, then **Alignment Guides**, **Snap to Tangent** and **Snap to Perpendicular**. **Alignment Guides** is the same setting as **Preferences → Smart Guides → Alignment Guides**, and it is on by default. To show the Control bar, choose **Window → Control**. In a narrow window, the Control bar leaves the Snapping menu out while the Artboard tool is active. To set up the grid and snap art to it, see [Draw on the grid](/apps/vectorcraft/draw-on-the-grid/).
+The **Snapping** menu at the left of the Control bar has **Smart Guides**, **Snap to Point**, **Snap to Grid**, **Snap to Pixel** and **Snap to Glyph**, then **Alignment Guides**, **Snap to Tangent** and **Snap to Perpendicular**. **Alignment Guides** is the same setting as **Preferences → Smart Guides → Alignment Guides**, and it is on by default. To show the Control bar, choose **Window → Control**. In a narrow window, the Control bar leaves the Snapping menu out while the Artboard tool is active. To line up, space and draw art with Smart Guides, see [Snap and align with Smart Guides](/apps/vectorcraft/snap-with-smart-guides/). To set up the grid and snap art to it, see [Draw on the grid](/apps/vectorcraft/draw-on-the-grid/).
 
 The grid spacing, the grid and guide colors and the Smart Guides options are in [Preferences](/apps/vectorcraft/preferences/): see [Guides & Grid](/apps/vectorcraft/preferences/#guides--grid), [Smart Guides](/apps/vectorcraft/preferences/#smart-guides) and [Units](/apps/vectorcraft/preferences/#units).
 
@@ -279,7 +279,11 @@ The grid spacing, the grid and guide colors and the Smart Guides options are in 
 
 - [Workflows](/apps/vectorcraft/workflows/)
 - [Manage artboards](/apps/vectorcraft/manage-artboards/)
+- [Set up artboards for video](/apps/vectorcraft/set-up-artboards-for-video/)
+- [Start documents from a template](/apps/vectorcraft/start-from-a-template/)
+- [Snap and align with Smart Guides](/apps/vectorcraft/snap-with-smart-guides/)
 - [Draw on the grid](/apps/vectorcraft/draw-on-the-grid/)
+- [Lay out pages with guides](/apps/vectorcraft/lay-out-pages-with-guides/)
 - [Copy and paste between apps](/apps/vectorcraft/copy-and-paste-between-apps/)
 - [Draw and transform shapes](/apps/vectorcraft/draw-and-transform-shapes/)
 - [Open and save files](/apps/vectorcraft/open-and-save-files/)

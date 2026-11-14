@@ -27,7 +27,7 @@ Outline draws every path as a thin black line, without fills, strokes or raster 
 
 In Outline, a placed image shows as a box. A symbol instance shows the outlines of its art, type shows the outline of every character, and a gradient mesh shows its mesh lines. A template layer stays in Preview.
 
-Each view of a document keeps its own mode. New documents and documents you open start in Preview, and switching one document to Outline leaves the other open documents as they are. When you open a second view with **Window → New Window**, one view can be in Outline while the other is in Preview.
+Each view of a document keeps its own mode. New documents and documents you open start in Preview, and switching one document to Outline leaves the other open documents as they are. When you open a second view with **Window → New Window**, one view can be in Outline while the other is in Preview. See [Work in several windows](/apps/vectorcraft/work-in-several-windows/).
 
 ## Show one layer in Outline
 
@@ -98,7 +98,7 @@ With the preference off, the canvas draws the edges of shapes and type without s
 
 - **Overprint Preview** (**Ctrl+Alt+Shift+Y**, or **Cmd+Option+Shift+Y** on macOS), **Proof Colors** and **Proof Setup** show how inks and other devices will reproduce the colors. See [Manage color and proof for print](/apps/vectorcraft/manage-color-and-proof/).
 - **Hide Edges**, **Hide Bounding Box** and the other items in the lower part of the **View** menu hide the marks drawn over the artwork. See [Customize the workspace](/apps/vectorcraft/customize-the-workspace/#show-or-hide-edges-and-widgets-on-the-canvas).
-- **Window → New Window** opens another view of the same document with its own zoom and mode.
+- **Window → New Window** opens another view of the same document with its own zoom and mode. See [Work in several windows](/apps/vectorcraft/work-in-several-windows/).
 
 ## Shortcuts
 
@@ -118,6 +118,7 @@ With the preference off, the canvas draws the edges of shapes and type without s
 - [Set up a document and artboards](/apps/vectorcraft/set-up-documents-and-artboards/)
 - [Zoom and pan the canvas](/apps/vectorcraft/zoom-and-pan-the-canvas/)
 - [Present and use screen modes](/apps/vectorcraft/present-and-use-screen-modes/)
+- [Work in several windows](/apps/vectorcraft/work-in-several-windows/)
 - [Export for screens and the web](/apps/vectorcraft/export-for-screens-and-the-web/)
 - [Manage color and proof for print](/apps/vectorcraft/manage-color-and-proof/)
 - [Customize the workspace](/apps/vectorcraft/customize-the-workspace/)

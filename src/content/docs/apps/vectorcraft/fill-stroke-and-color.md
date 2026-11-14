@@ -54,6 +54,8 @@ Alt-click (Option-click on macOS) the spectrum or a chip to paint the box that i
 
 When the selected art uses a global or spot swatch, the Color panel shows that swatch's tint slider instead. Picking a mode from the panel menu turns the color into a plain process color.
 
+To choose an exact color in the Color Picker, or to invert, complement or copy a color in the Color panel, see [Pick and sample colors](/apps/vectorcraft/pick-and-sample-colors/).
+
 ## Pick a color on the Color Wheel
 
 The Color Wheel panel sets the same color as the Color panel's sliders: the color of the active Fill or Stroke box, or of the selected gradient stop or freeform gradient point. It shows a hue ring around a square. In the square, saturation increases from left to right and brightness increases from bottom to top. Choose **Window → Color Wheel** to open it.
@@ -82,6 +84,8 @@ Shift-click samples only the color under the pointer into the active Fill or Str
 
 ![The Eyedropper Tool is selected over the balloon scene, and the Eyedropper Options dialog lists what the tool picks up and what it applies, with Appearance, Focal Fill, Focal Stroke, Character Style and Paragraph Style turned on in both columns. The status bar shows the tool's Click, Alt+Click and Shift+Click hints](/assets/uploads/vectorcraft/eyedropper-options.webp)
 
+For each Eyedropper Options setting, see [Pick and sample colors](/apps/vectorcraft/pick-and-sample-colors/).
+
 ## Save and reuse swatches
 
 Choose **Window → Swatches** to open the Swatches panel. Clicking a swatch paints the active box, and Alt-click (Option-click on macOS) paints the other box.
@@ -105,7 +109,7 @@ When you delete a global swatch, art that uses it keeps its color but loses the 
 
 To use ready-made colors, choose **Window → Swatch Libraries** and pick a library. **Open Swatch Library** and **Save Swatch Library…** in the Swatches panel menu open a library file or save the document's swatches as one.
 
-To group, edit, merge, sort and clean up the swatches in a document, see [Organize swatches and color groups](/apps/vectorcraft/organize-swatches-and-color-groups/).
+To group, edit, merge, sort and clean up the swatches in a document, see [Organize swatches and color groups](/apps/vectorcraft/organize-swatches-and-color-groups/). To open, add from and save swatch libraries, see [Use swatch libraries](/apps/vectorcraft/use-swatch-libraries/).
 
 ## Find colors that go together with the Color Guide
 
@@ -214,7 +218,7 @@ To save the gradient as a swatch, choose **Add to Swatches** from the Gradient p
 
 ![A Ferris wheel on teal hills under a violet-to-coral linear gradient sky, with a radial gradient sun behind it. The wheel's rim is selected, and the Gradient panel shows its thick stroke painted with a cyan-to-magenta gradient along the stroke](/assets/uploads/vectorcraft/gradient-types.webp)
 
-To place color points anywhere in a shape, see [Paint with freeform gradients](/apps/vectorcraft/paint-with-freeform-gradients/).
+To apply gradient presets, save your own, and edit stops and midpoints, see [Save and reuse gradients](/apps/vectorcraft/save-and-reuse-gradients/). To place color points anywhere in a shape, see [Paint with freeform gradients](/apps/vectorcraft/paint-with-freeform-gradients/).
 
 ### Edit a gradient on the canvas
 
@@ -363,6 +367,8 @@ Select the art, then choose a command from **Edit → Edit Colors**:
 
 For overprinting, spot colors, color settings and soft proofing, see [Manage color and proof](/apps/vectorcraft/manage-color-and-proof/).
 
+For every option of the Recolor Artwork dialog, see [Recolor artwork](/apps/vectorcraft/recolor-artwork/). For the other commands in the table, see [Adjust the colors of artwork](/apps/vectorcraft/adjust-artwork-colors/).
+
 ## Related
 
 - [Workflows](/apps/vectorcraft/workflows/)
@@ -374,6 +380,11 @@ For overprinting, spot colors, color settings and soft proofing, see [Manage col
 - [Paint with brushes](/apps/vectorcraft/paint-with-brushes/)
 - [Make patterns, blends and repeats](/apps/vectorcraft/make-patterns-blends-and-repeats/)
 - [Manage color and proof](/apps/vectorcraft/manage-color-and-proof/)
+- [Pick and sample colors](/apps/vectorcraft/pick-and-sample-colors/)
+- [Recolor artwork](/apps/vectorcraft/recolor-artwork/)
+- [Adjust the colors of artwork](/apps/vectorcraft/adjust-artwork-colors/)
 - [Organize swatches and color groups](/apps/vectorcraft/organize-swatches-and-color-groups/)
+- [Use swatch libraries](/apps/vectorcraft/use-swatch-libraries/)
+- [Save and reuse gradients](/apps/vectorcraft/save-and-reuse-gradients/)
 - [Paint with freeform gradients](/apps/vectorcraft/paint-with-freeform-gradients/)
 - [Style strokes with dashes, arrowheads and profiles](/apps/vectorcraft/style-strokes/)

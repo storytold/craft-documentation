@@ -101,4 +101,5 @@ When you choose **Export 3D Object**, the message names the object. An object wi
 
 - [Make 3D artwork](/apps/vectorcraft/make-3d-artwork/)
 - [Export for screens and the web](/apps/vectorcraft/export-for-screens-and-the-web/)
+- [Follow and cancel long exports](/apps/vectorcraft/follow-and-cancel-exports/)
 - [All VectorCraft workflows](/apps/vectorcraft/workflows/)

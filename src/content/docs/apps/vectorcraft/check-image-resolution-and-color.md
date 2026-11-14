@@ -106,6 +106,7 @@ The new image is embedded and its format is TIFF. Link Info reads **CMYK**, and 
 ## Related
 
 - [Work with placed images](/apps/vectorcraft/work-with-placed-images/)
+- [Adjust the colors of an image](/apps/vectorcraft/adjust-image-colors/)
 - [Measure and dimension](/apps/vectorcraft/measure-and-dimension/#list-what-a-document-holds-with-document-info)
 - [Use the built-in plug-ins](/apps/vectorcraft/built-in-plug-ins/#adjust-colors)
 - [Manage color and proof for print](/apps/vectorcraft/manage-color-and-proof/)

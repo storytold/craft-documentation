@@ -276,6 +276,7 @@ To change these shortcuts, choose **Edit → Keyboard Shortcuts…**. The Align 
 ## Related
 
 - [Align anchor points and guides](/apps/vectorcraft/align-anchor-points-and-guides/)
+- [Edit in isolation mode](/apps/vectorcraft/edit-in-isolation-mode/)
 - [Select artwork](/apps/vectorcraft/select-artwork/)
 - [Draw and transform shapes](/apps/vectorcraft/draw-and-transform-shapes/)
 - [Combine and cut shapes](/apps/vectorcraft/combine-and-cut-shapes/)

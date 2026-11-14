@@ -98,6 +98,7 @@ To change these keys, see [Keyboard shortcuts](/apps/vectorcraft/keyboard-shortc
 
 - [Workflows](/apps/vectorcraft/workflows/)
 - [Switch between Outline, Preview and Pixel Preview](/apps/vectorcraft/switch-outline-and-preview-modes/)
+- [Work in several windows](/apps/vectorcraft/work-in-several-windows/)
 - [Manage artboards](/apps/vectorcraft/manage-artboards/)
 - [Customize the workspace](/apps/vectorcraft/customize-the-workspace/)
 - [Keyboard shortcuts](/apps/vectorcraft/keyboard-shortcuts/)

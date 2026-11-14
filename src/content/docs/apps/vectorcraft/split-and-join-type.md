@@ -132,7 +132,7 @@ Every character whose font family is not installed changes to the chosen family,
 
 When no font family is missing, the status bar shows "No fonts are missing". When the family you enter is not installed, the command reports an error and changes nothing.
 
-To add the missing font files, or to replace each missing font separately, see [Add or replace missing fonts](/apps/vectorcraft/open-and-save-files/#add-or-replace-missing-fonts).
+To choose a replacement font and style for each missing font, or to add the missing font files, see [Find and replace fonts](/apps/vectorcraft/find-and-replace-fonts/) and [Add or replace missing fonts](/apps/vectorcraft/open-and-save-files/#add-or-replace-missing-fonts).
 
 ## Related
 
@@ -140,3 +140,4 @@ To add the missing font files, or to replace each missing font separately, see [
 - [Add and style type](/apps/vectorcraft/add-and-style-type/)
 - [Use the built-in plug-ins](/apps/vectorcraft/built-in-plug-ins/)
 - [Open and save files](/apps/vectorcraft/open-and-save-files/)
+- [Find and replace fonts](/apps/vectorcraft/find-and-replace-fonts/)

@@ -416,6 +416,7 @@ To change these shortcuts, choose **Edit → Keyboard Shortcuts…**.
 - [Save PDF files for print and sharing](/apps/vectorcraft/save-pdf-files/)
 - [Create and share PDF presets](/apps/vectorcraft/manage-pdf-presets/)
 - [Export 3D objects as mesh files](/apps/vectorcraft/export-3d-objects/)
+- [Follow and cancel long exports](/apps/vectorcraft/follow-and-cancel-exports/)
 - [Open and save files](/apps/vectorcraft/open-and-save-files/)
 - [Manage color and proof for print](/apps/vectorcraft/manage-color-and-proof/)
 - [Print your artwork](/apps/vectorcraft/print-your-artwork/)

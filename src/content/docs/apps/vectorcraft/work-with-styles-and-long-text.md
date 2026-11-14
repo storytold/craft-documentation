@@ -321,5 +321,7 @@ To change these shortcuts, choose **Edit → Keyboard Shortcuts…**.
 - [Make lists and fit type to its frame](/apps/vectorcraft/make-lists-and-fit-type/)
 - [Check spelling](/apps/vectorcraft/check-spelling/)
 - [Set type in other languages](/apps/vectorcraft/set-type-for-other-languages/)
+- [Choose fonts](/apps/vectorcraft/choose-fonts/)
+- [Place text from other files](/apps/vectorcraft/place-text-from-files/)
 - [Use the built-in plug-ins](/apps/vectorcraft/built-in-plug-ins/)
 - [Preferences](/apps/vectorcraft/preferences/)

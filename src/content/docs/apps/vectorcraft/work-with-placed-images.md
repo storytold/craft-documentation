@@ -113,7 +113,7 @@ The same setting applies to files that another app changes while the document is
 
 ![The dusk-bay-postcard document with the hill-view.png image selected and an amber modified badge on its row in the Links panel. The Update Modified Links dialog says that 1 linked image changed on disk and asks whether to show the new version, with Cancel and OK](/assets/uploads/vectorcraft/update-modified-links.webp)
 
-Edit Original opens the file in the app your system uses for its file type. It opens only image and document files in formats VectorCraft reads. A placed VectorCraft document opens in a new tab in VectorCraft instead, and saving it there updates the placed copy. An embedded image has no file to open, and a missing file must be relinked first.
+Edit Original opens the file in the app your system uses for its file type. It opens only image and document files in formats VectorCraft reads. A placed VectorCraft document opens in a new tab in VectorCraft instead, and saving it there updates the placed copy (see [Edit the placed document](/apps/vectorcraft/place-linked-documents/#edit-the-placed-document)). An embedded image has no file to open, and a missing file must be relinked first.
 
 ## Crop an image
 
@@ -204,6 +204,8 @@ To trace an image into editable paths instead, select it and click **Image Trace
 ## Related
 
 - [Open and save files](/apps/vectorcraft/open-and-save-files/)
+- [Place documents and PDF pages](/apps/vectorcraft/place-linked-documents/)
+- [Adjust the colors of an image](/apps/vectorcraft/adjust-image-colors/)
 - [Check image resolution and color mode](/apps/vectorcraft/check-image-resolution-and-color/)
 - [Combine and cut shapes](/apps/vectorcraft/combine-and-cut-shapes/)
 - [Trace an image](/apps/vectorcraft/trace-an-image/)

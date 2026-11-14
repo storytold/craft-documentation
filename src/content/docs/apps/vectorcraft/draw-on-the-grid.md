@@ -78,7 +78,7 @@ While Snap to Grid is on, art snaps only to the grid:
 - **Snap to Last Location** does not send a dragged selection back to where it started.
 - **Snap to Pixel** has no effect. Turn Snap to Grid off to place art on whole pixels.
 
-Turn Snap to Grid off to snap with Smart Guides again. The Smart Guides commands are listed in [Use rulers, guides and grids](/apps/vectorcraft/set-up-documents-and-artboards/#use-rulers-guides-and-grids).
+Turn Snap to Grid off to snap with Smart Guides again. The Smart Guides commands are listed in [Use rulers, guides and grids](/apps/vectorcraft/set-up-documents-and-artboards/#use-rulers-guides-and-grids), and [Snap and align with Smart Guides](/apps/vectorcraft/snap-with-smart-guides/) shows how to use them.
 
 ## Where the grid starts
 
@@ -118,6 +118,8 @@ Both have a button in the **Rulers & Grids** section of the Properties panel whi
 
 - [Workflows](/apps/vectorcraft/workflows/)
 - [Set up a document and artboards](/apps/vectorcraft/set-up-documents-and-artboards/#use-rulers-guides-and-grids)
+- [Lay out pages with guides](/apps/vectorcraft/lay-out-pages-with-guides/)
+- [Snap and align with Smart Guides](/apps/vectorcraft/snap-with-smart-guides/)
 - [Draw and transform shapes](/apps/vectorcraft/draw-and-transform-shapes/)
 - [Export for screens and the web](/apps/vectorcraft/export-for-screens-and-the-web/)
 - [Preferences](/apps/vectorcraft/preferences/#guides--grid)

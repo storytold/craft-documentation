@@ -181,7 +181,7 @@ The panel menu holds commands that work on whole layers. Most of them act on the
 - **Template** turns the highlighted layers into template layers, or back into ordinary layers.
 - **Hide Others**, **Outline Others** and **Lock Others** act on every top-level layer except the ones that hold the highlighted rows, or the current layer when no row is highlighted. When every other layer is already hidden, in outline or locked, the menu shows **Show All Layers**, **Preview All Layers** or **Unlock All Layers** in that item's place, and the command shows, previews or unlocks every layer.
 
-**Enter Isolation Mode** in the same menu is described in [Edit a group in isolation mode](/apps/vectorcraft/arrange-group-and-align/#edit-a-group-in-isolation-mode).
+[Move, copy and merge layers](/apps/vectorcraft/rearrange-and-merge-layers/) gives the steps for merging, collecting, releasing, reversing and flattening layers. **Enter Isolation Mode** in the same menu is described in [Edit in isolation mode](/apps/vectorcraft/edit-in-isolation-mode/).
 
 :::caution
 **Flatten Artwork** deletes hidden layers and the art in them. Show any layer you want to keep before you flatten. Template layers are kept.
@@ -351,7 +351,9 @@ While a symbolism tool is active, press **[** or **]** to make the brush smaller
 ## Related
 
 - [Arrange, group and align](/apps/vectorcraft/arrange-group-and-align/)
+- [Move, copy and merge layers](/apps/vectorcraft/rearrange-and-merge-layers/)
 - [Align anchor points and guides](/apps/vectorcraft/align-anchor-points-and-guides/)
+- [Edit in isolation mode](/apps/vectorcraft/edit-in-isolation-mode/)
 - [Select artwork](/apps/vectorcraft/select-artwork/)
 - [Draw and transform shapes](/apps/vectorcraft/draw-and-transform-shapes/)
 - [Combine and cut shapes](/apps/vectorcraft/combine-and-cut-shapes/)

@@ -11,7 +11,7 @@ summary: Look up what each Object menu item does and its shortcut.
 parent: workflows
 ---
 
-This page lists every item of the **Object** menu and its submenus, in menu order, with what it does, its default shortcut and the guide that covers it.
+This page lists every item of the **Object** menu and its submenus, in menu order, with what it does, its default shortcut and the guide that covers it. The [File and Edit menus](/apps/vectorcraft/file-and-edit-menus/), the [Type, Select and Effect menus](/apps/vectorcraft/type-select-and-effect-menus/) and the [View, Window and Help menus](/apps/vectorcraft/view-window-and-help-menus/) have their own pages.
 
 Where Windows and Linux use Ctrl, macOS uses Cmd, and where they use Alt, macOS uses Option. A shortcut cell that reads "None" means the item has no default shortcut. You can give any item a shortcut in **Edit → Keyboard Shortcuts…**, and [Keyboard shortcuts](/apps/vectorcraft/keyboard-shortcuts/) lists every default.
 
@@ -228,6 +228,9 @@ Below them, the menu lists the filter plug-ins you have installed, each with its
 
 - [Keyboard shortcuts](/apps/vectorcraft/keyboard-shortcuts/)
 - [Right-click menus](/apps/vectorcraft/right-click-menus/)
+- [File and Edit menus](/apps/vectorcraft/file-and-edit-menus/)
+- [Type, Select and Effect menus](/apps/vectorcraft/type-select-and-effect-menus/)
+- [View, Window and Help menus](/apps/vectorcraft/view-window-and-help-menus/)
 - [Draw and transform shapes](/apps/vectorcraft/draw-and-transform-shapes/)
 - [Arrange, group and align](/apps/vectorcraft/arrange-group-and-align/)
 - [Draw and edit paths](/apps/vectorcraft/draw-and-edit-paths/)

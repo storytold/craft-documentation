@@ -31,7 +31,7 @@ The option adds these commands:
 | Character panel menu | **Character Alignment**, **Proportional Metrics**, **Tate-chu-yoko**, **Tate-chu-yoko Settings…** and **Standard Vertical Roman Alignment** |
 | **Type** menu | **Composite Fonts…** |
 
-To find a Japanese font, open the font menu in the Character panel and click **Japanese** in the row of script filters. The list then shows only CJK font families, which include the Japanese families. The filter appears whether or not the East Asian options are on.
+To find a Japanese font, open the font menu in the Character panel and click **Japanese** in the row of script filters. The list then shows only CJK font families, which include the Japanese families. The filter appears whether or not the East Asian options are on. [Choose fonts](/apps/vectorcraft/choose-fonts/) describes all of the font menu's filters.
 
 Paragraph settings apply to the paragraphs of the selected type objects, or to the paragraphs that your Type tool selection touches. Character settings apply to the selected type objects, or to the characters you selected with the Type tool.
 
@@ -143,3 +143,4 @@ In horizontal type, VectorCraft uses the font's proportional widths (the OpenTyp
 - [Set vertical type](/apps/vectorcraft/work-with-styles-and-long-text/#set-vertical-type)
 - [Preferences: Type](/apps/vectorcraft/preferences/#type)
 - [Add and style type](/apps/vectorcraft/add-and-style-type/)
+- [Choose fonts](/apps/vectorcraft/choose-fonts/)

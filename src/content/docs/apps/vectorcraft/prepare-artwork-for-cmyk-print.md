@@ -125,6 +125,7 @@ Before you print, check each ink plate in the Separations Preview panel. See [Pr
 ## Related
 
 - [Manage color and proof for print](/apps/vectorcraft/manage-color-and-proof/)
+- [Print color separations](/apps/vectorcraft/print-color-separations/)
 - [Trap colors where inks meet](/apps/vectorcraft/trap-colors-between-inks/)
 - [Print your artwork](/apps/vectorcraft/print-your-artwork/)
 - [Set up a document and artboards](/apps/vectorcraft/set-up-documents-and-artboards/)

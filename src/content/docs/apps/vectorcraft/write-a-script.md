@@ -274,12 +274,13 @@ A run with nobody to answer its dialogs takes the next answer from `answers` for
 
 From an MCP client, call the `run_command` tool with `command` set to `script.run` and the same parameters in `params`. A headless server returns the report at once. In a server connected to the app, `script.run` returns `{"running": true, "name": "..."}`, the person answers the dialogs in the window, and when the run ends, the client reads the report in the `scriptReport` field of the `ui_inspect` tool's result (the app's `ui.inspect` method). See [AI agents](/apps/vectorcraft/ai-agents/) and [Drive VectorCraft from an MCP client](/apps/vectorcraft/automate-vectorcraft/#drive-vectorcraft-from-an-mcp-client).
 
-For a series of commands that needs no loops or conditions, a steps file is simpler than a script. See [Run commands from the command line](/apps/vectorcraft/automate-vectorcraft/#run-commands-from-the-command-line).
+For a series of commands that needs no loops or conditions, a steps file is simpler than a script. See [Write command steps for vectorcraft-cli](/apps/vectorcraft/write-command-steps/).
 
 ## Related
 
 - [Run scripts](/apps/vectorcraft/run-scripts/)
 - [Automate VectorCraft](/apps/vectorcraft/automate-vectorcraft/)
 - [Convert files from the command line](/apps/vectorcraft/convert-files-from-the-command-line/)
+- [Write command steps for vectorcraft-cli](/apps/vectorcraft/write-command-steps/)
 - [AI agents](/apps/vectorcraft/ai-agents/)
 - [Preferences](/apps/vectorcraft/preferences/)

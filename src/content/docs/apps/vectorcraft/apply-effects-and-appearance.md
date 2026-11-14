@@ -333,6 +333,9 @@ If you click a style while nothing is selected, VectorCraft uses that style for 
 
 - [Warp and distort with effects](/apps/vectorcraft/warp-and-distort-with-effects/)
 - [Change paths with effects](/apps/vectorcraft/change-paths-with-effects/)
+- [Add shadows, glows and scribbles](/apps/vectorcraft/add-shadows-glows-and-scribbles/)
+- [Adjust colors with effects](/apps/vectorcraft/adjust-colors-with-effects/)
+- [Mask artwork](/apps/vectorcraft/mask-artwork/)
 - [Manage graphic styles](/apps/vectorcraft/manage-graphic-styles/)
 - [Make 3D artwork](/apps/vectorcraft/make-3d-artwork/)
 - [Fill, stroke and color](/apps/vectorcraft/fill-stroke-and-color/)

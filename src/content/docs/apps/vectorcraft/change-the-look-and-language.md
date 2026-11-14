@@ -133,3 +133,4 @@ Windows, Linux and the BSDs have no menu for these settings. Use the **User Inte
 - [Customize the workspace](/apps/vectorcraft/customize-the-workspace/)
 - [Panels](/apps/vectorcraft/panels/)
 - [Set type for other languages](/apps/vectorcraft/set-type-for-other-languages/)
+- [Back up and move your settings](/apps/vectorcraft/back-up-and-move-your-settings/)

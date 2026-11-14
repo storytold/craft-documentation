@@ -105,4 +105,6 @@ A freeform gradient always keeps at least one point. You cannot remove the last 
 
 - [Workflows](/apps/vectorcraft/workflows/)
 - [Fill, stroke and color](/apps/vectorcraft/fill-stroke-and-color/)
+- [Save and reuse gradients](/apps/vectorcraft/save-and-reuse-gradients/)
+- [Pick and sample colors](/apps/vectorcraft/pick-and-sample-colors/)
 - [Organize swatches and color groups](/apps/vectorcraft/organize-swatches-and-color-groups/)

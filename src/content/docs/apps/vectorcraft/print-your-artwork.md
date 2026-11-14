@@ -95,6 +95,8 @@ The **Output** section chooses between one color page and one page per ink.
 4. With separations, turn on **Convert All Spot Colors to Process** to print spot colors on the process inks instead of their own pages.
 5. With separations, the **Document Ink Options** list shows each ink. Turn single inks on or off and set their frequency and angle.
 
+[Print color separations](/apps/vectorcraft/print-color-separations/) shows how to get the inks ready, check each plate and choose a press profile.
+
 ## Set graphics options
 
 Most jobs print fine with the default graphics, color and advanced settings. Change them when a printer has trouble or colors look wrong.
@@ -256,6 +258,7 @@ To keep the job as a file instead, choose **PDF File** under **Printer**. The br
 - [Organize with layers and symbols](/apps/vectorcraft/organize-with-layers-and-symbols/)
 - [Fill, stroke and color](/apps/vectorcraft/fill-stroke-and-color/)
 - [Manage color and proof for print](/apps/vectorcraft/manage-color-and-proof/)
+- [Print color separations](/apps/vectorcraft/print-color-separations/)
 - [Prepare artwork for CMYK printing](/apps/vectorcraft/prepare-artwork-for-cmyk-print/)
 - [Trap colors where inks meet](/apps/vectorcraft/trap-colors-between-inks/)
 - [Open and save files](/apps/vectorcraft/open-and-save-files/)

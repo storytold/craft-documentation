@@ -93,6 +93,8 @@ The panel menu holds these commands:
 | **Save Actions…** | Saves the current set to a `.vcactions` file |
 | **Load Actions…** | Adds a saved set to the panel |
 
+To use the built-in Default Actions, move a set to another computer, load a set saved as text (`.aia`) or play an action's steps from `vectorcraft-cli`, see [Save, load and share action sets](/apps/vectorcraft/share-action-sets/).
+
 ### Add a stop to an action
 
 A stop makes a playing action wait and show a message, so you can check the result or do a step by hand before the action goes on.
@@ -242,6 +244,8 @@ A steps file for `--commands` holds a JSON array of steps, or one step per line.
 Put long parameters in a steps file and pass it with `--commands`. `--commands -` reads the steps from standard input.
 :::
 
+To find a command's settings, use the result of one step in a later step, and find the step that failed, see [Write command steps for vectorcraft-cli](/apps/vectorcraft/write-command-steps/).
+
 ### Convert a file
 
 `vectorcraft-cli convert IN OUT` opens `IN` and exports `OUT`. These options change how `.ai`, EPS and PDF files are read and written:
@@ -319,6 +323,8 @@ When the server lists commands, it gives the parameter schema of each command th
 - [Keyboard shortcuts](/apps/vectorcraft/keyboard-shortcuts/)
 - [Run scripts](/apps/vectorcraft/run-scripts/)
 - [Write a script](/apps/vectorcraft/write-a-script/)
+- [Save, load and share action sets](/apps/vectorcraft/share-action-sets/)
+- [Write command steps for vectorcraft-cli](/apps/vectorcraft/write-command-steps/)
 - [Convert files from the command line](/apps/vectorcraft/convert-files-from-the-command-line/)
 - [Install and manage plug-ins](/apps/vectorcraft/install-and-manage-plug-ins/)
 - [Use the built-in plug-ins](/apps/vectorcraft/built-in-plug-ins/)

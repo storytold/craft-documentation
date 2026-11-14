@@ -309,6 +309,7 @@ If a pen does nothing on Linux, see [Troubleshooting](/apps/vectorcraft/troubles
 - [Set path direction and fill rule](/apps/vectorcraft/set-path-direction-and-fill-rule/)
 - [Sketch and ink a drawing](/apps/vectorcraft/sketch-and-ink-a-drawing/)
 - [Draw behind and inside objects](/apps/vectorcraft/draw-behind-and-inside/)
+- [Expand objects into paths](/apps/vectorcraft/expand-objects-into-paths/)
 - [Fill, stroke and color](/apps/vectorcraft/fill-stroke-and-color/)
 - [Combine and cut shapes](/apps/vectorcraft/combine-and-cut-shapes/)
 - [Paint with brushes and variable widths](/apps/vectorcraft/paint-with-brushes/)

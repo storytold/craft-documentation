@@ -181,7 +181,7 @@ for f in posters/*.svg; do
 done
 ```
 
-Each loop goes on to the next file when one fails and names the file that failed. To run recorded steps on each file instead of converting it, use **Batch…** in the **Actions** panel, or `vectorcraft-cli run` with a steps file, as described in [Run commands from the command line](/apps/vectorcraft/automate-vectorcraft/#run-commands-from-the-command-line).
+Each loop goes on to the next file when one fails and names the file that failed. To run recorded steps on each file instead of converting it, use **Batch…** in the **Actions** panel, or `vectorcraft-cli run` with a steps file, as described in [Write command steps for vectorcraft-cli](/apps/vectorcraft/write-command-steps/).
 
 ## Check a file with info
 
@@ -230,6 +230,7 @@ festival-posters.vectorcraft: 142 nodes, 2880x1800
 - [Automate VectorCraft](/apps/vectorcraft/automate-vectorcraft/)
 - [Write a script](/apps/vectorcraft/write-a-script/)
 - [Run scripts](/apps/vectorcraft/run-scripts/)
+- [Write command steps for vectorcraft-cli](/apps/vectorcraft/write-command-steps/)
 - [Open and save files](/apps/vectorcraft/open-and-save-files/)
 - [Export for screens and the web](/apps/vectorcraft/export-for-screens-and-the-web/)
 - [Manage artboards](/apps/vectorcraft/manage-artboards/)

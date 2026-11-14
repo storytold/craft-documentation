@@ -26,7 +26,7 @@ To rotate the view without changing tools, hold **Space** and **Shift**, then dr
 
 ![A drag with the Rotate View tool has turned the dusk scene of a navy heron among teal reeds 30° clockwise, with dark pasteboard at the corners. A round dial at the center of the canvas reads 30°, and the status bar shows 93.5%, 30° and Rotate View](/assets/uploads/vectorcraft/rotate-the-view-tool.webp)
 
-Each document and each window of a document keeps its own angle. To show the same document at another angle, open a second window on it with **Window → New Window**. **View → New View…** saves the view's position, zoom and angle in the document, so you can return to the angle later. See [Save and recall views](/apps/vectorcraft/save-and-recall-views/).
+Each document and each window of a document keeps its own angle. To show the same document at another angle, open a second window on it with **Window → New Window**, as [Work in several windows](/apps/vectorcraft/work-in-several-windows/) describes. **View → New View…** saves the view's position, zoom and angle in the document, so you can return to the angle later. See [Save and recall views](/apps/vectorcraft/save-and-recall-views/).
 
 ## Choose a preset angle
 
@@ -76,5 +76,7 @@ The gesture works while **Trackpad Gesture to Rotate View** is on in **Preferenc
 - [Workflows](/apps/vectorcraft/workflows/)
 - [Zoom and pan the canvas](/apps/vectorcraft/zoom-and-pan-the-canvas/)
 - [Save and recall views](/apps/vectorcraft/save-and-recall-views/)
+- [Find your place with the Navigator panel](/apps/vectorcraft/find-your-place-with-the-navigator/)
+- [Work in several windows](/apps/vectorcraft/work-in-several-windows/)
 - [Preferences](/apps/vectorcraft/preferences/)
 - [Keyboard shortcuts](/apps/vectorcraft/keyboard-shortcuts/)

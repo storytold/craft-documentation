@@ -271,13 +271,13 @@ With **Show East Asian Options** on, the menu also holds **Top-to-Top Leading**,
 | **Fit Headline** | Track the first line of area type so it fills the width of the frame, as described in [Fit a headline to its frame](/apps/vectorcraft/make-lists-and-fit-type/#fit-a-headline-to-its-frame) |
 | **Find Font…** | List the fonts the document uses, mark missing ones, and replace a font with another |
 | **Composite Fonts…** | Build the document's composite fonts, which set kanji, kana, punctuation, symbols, Roman letters and numerals each in a font of its own. The command shows only while **Show East Asian Options** is on in Preferences, as described in [Build a composite font](/apps/vectorcraft/set-type-for-other-languages/#build-a-composite-font). |
-| **Change Case** | Change the selected text to **UPPERCASE**, **lowercase**, **Title Case** or **Sentence case** |
+| **Change Case** | Change the whole text of each selected type object to **UPPERCASE**, **lowercase**, **Title Case** or **Sentence case**, as described in [Change case and clean up text](/apps/vectorcraft/clean-up-text/#change-the-case-of-text) |
 | **Smart Punctuation…** | Replace straight quotes with the quotation marks set in Document Setup, `--` and `---` with en and em dashes, and `...` with an ellipsis character, in the selection or the whole document |
 | **Bullets and Numbering** | **Apply Bullets**, **Apply Numbers**, or **Convert to Text** to turn list markers into ordinary text, as described in [Make lists and fit type to its frame](/apps/vectorcraft/make-lists-and-fit-type/#turn-a-list-into-ordinary-text) |
 | **Create Outlines** | Convert the selected type into paths, as described in [Turn type into shapes](#turn-type-into-shapes) |
 | **Scale Text Attributes** | Move the scale of a scaled type object into its font size, leading, baseline shift and horizontal scale. Rotation and position stay as they are. The command is available only when the selected type has been scaled. |
 | **Optical Margin Alignment** | Hang punctuation and some letters outside the margins of the selected type and its threaded frames, as described in [Fine-tune justification and hyphenation](/apps/vectorcraft/work-with-styles-and-long-text/#fine-tune-justification-and-hyphenation) |
-| **Fill with Placeholder Text** | Replace the selected text with placeholder text; area type is filled to its frame |
+| **Fill with Placeholder Text** | Replace the whole text of each selected type object with placeholder text; area type is filled to its frame |
 | **Insert Inline Symbol** | Place the symbol selected in the Symbols panel in the text as one character, as described in [Insert spaces and breaks](/apps/vectorcraft/work-with-styles-and-long-text/#insert-spaces-and-breaks) |
 | **Show Hidden Characters** | Show markers for spaces, paragraph ends and story ends |
 | **Type Orientation** | Set the selected type to **Horizontal** or **Vertical** lines, as described in [Set vertical type](/apps/vectorcraft/work-with-styles-and-long-text/#set-vertical-type) |
@@ -331,7 +331,11 @@ To change these shortcuts, choose **Edit → Keyboard Shortcuts…**. [Keyboard 
 - [Check spelling](/apps/vectorcraft/check-spelling/)
 - [Set type in other languages](/apps/vectorcraft/set-type-for-other-languages/)
 - [Set Japanese type](/apps/vectorcraft/set-japanese-type/)
+- [Set right-to-left and Indic type](/apps/vectorcraft/set-right-to-left-and-indic-type/)
 - [Split and join type objects](/apps/vectorcraft/split-and-join-type/)
+- [Choose fonts](/apps/vectorcraft/choose-fonts/)
+- [Change case and clean up text](/apps/vectorcraft/clean-up-text/)
+- [Place text from other files](/apps/vectorcraft/place-text-from-files/)
 - [Arrange, group and align](/apps/vectorcraft/arrange-group-and-align/)
 - [Set up a document and artboards](/apps/vectorcraft/set-up-documents-and-artboards/)
 - [Preferences](/apps/vectorcraft/preferences/)

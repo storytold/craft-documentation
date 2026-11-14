@@ -57,7 +57,7 @@ The following image shows several of these terms at once. The sail of the boat i
 
 **Fill.** The fill paints the inside of a path with a color, a gradient or a pattern. See [Fill, stroke and color](/apps/vectorcraft/fill-stroke-and-color/#choose-the-fill-or-the-stroke).
 
-**Flyout.** A flyout is the row of related tools that opens from a button in the Tools panel. A small triangle in the corner of a button marks a group with more than one tool. Press and hold the button, right-click it, or click the triangle to open the flyout.
+**Flyout.** A flyout is the row of related tools that opens from a button in the Tools panel. A small triangle in the corner of a button marks a group with more than one tool. Press and hold the button, right-click it, or click the triangle to open the flyout. See [Tools reference](/apps/vectorcraft/tools-reference/).
 
 **Global color.** A global color is a swatch that stays linked to the art painted with it. When you edit the swatch with **Swatch Options…**, every object that uses it changes color. Turn on **Global** in the New Swatch dialog to make one. A spot color is always global. See [Fill, stroke and color](/apps/vectorcraft/fill-stroke-and-color/#save-and-reuse-swatches).
 
@@ -139,6 +139,7 @@ The following image shows several of these terms at once. The sail of the boat i
 
 - [Overview](/apps/vectorcraft/overview/)
 - [Getting started](/apps/vectorcraft/getting-started/)
+- [Tools reference](/apps/vectorcraft/tools-reference/)
 - [Draw and edit paths](/apps/vectorcraft/draw-and-edit-paths/)
 - [Fill, stroke and color](/apps/vectorcraft/fill-stroke-and-color/)
 - [Apply effects and appearance](/apps/vectorcraft/apply-effects-and-appearance/)

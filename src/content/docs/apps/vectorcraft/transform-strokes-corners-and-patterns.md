@@ -141,6 +141,7 @@ The objects keep their shape and position. VectorCraft also squares the boxes of
 ## Related
 
 - [Select and move objects](/apps/vectorcraft/select-and-move-objects/)
+- [Rotate, reflect, scale and shear objects](/apps/vectorcraft/rotate-reflect-scale-and-shear-objects/)
 - [Draw and transform shapes](/apps/vectorcraft/draw-and-transform-shapes/)
 - [Make patterns, blends and repeats](/apps/vectorcraft/make-patterns-blends-and-repeats/)
 - [Fill, stroke and color](/apps/vectorcraft/fill-stroke-and-color/)

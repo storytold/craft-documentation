@@ -46,6 +46,8 @@ When a format cannot hold everything in the document, the save finishes with a w
 
 In Preferences (**Ctrl+K**, or **Cmd+K** on macOS), the **Use Compression** option in the File Handling section makes VectorCraft compress `.vectorcraft` files when it saves them.
 
+When you save a VectorCraft file with **Save As…**, VectorCraft asks for its options, including a version that older releases can open, as [Save for older versions and other apps](/apps/vectorcraft/save-for-older-versions-and-other-apps/) describes.
+
 ## Choose a format for sharing
 
 Save As writes these formats: VectorCraft, VectorCraft Template, PDF, SVG, SVG Compressed (`.svgz`), `.ai` and EPS. Raster images and the other formats in the following table are written with **File → Export** instead (see [Export for screens and the web](/apps/vectorcraft/export-for-screens-and-the-web/)).
@@ -77,6 +79,8 @@ A `.ai` file that VectorCraft wrote, and a PDF or SVG file saved with its preser
 :::
 
 ![The SVG Options dialog over the harbor drawing, with SVG Profile set to SVG 1.1, Styling to Internal CSS, Images to Embed, Object IDs to Layer Names and Decimal to 3, and Responsive and Preserve Editing Capabilities turned on](/assets/uploads/vectorcraft/svg-options-preserve-editing.webp)
+
+The options that `.ai`, EPS and template files take when you save them, including a legacy `.ai` save that writes each artboard to a file of its own, are in [Save for older versions and other apps](/apps/vectorcraft/save-for-older-versions-and-other-apps/).
 
 ### Save a PDF
 
@@ -276,6 +280,8 @@ For the choices you make when you place a PDF or `.ai` page, a DXF drawing or a 
 Package does not copy fonts whose license does not allow embedding.
 :::
 
+[Package a document with its links and fonts](/apps/vectorcraft/package-a-document/) lists what each option does, what the package folder holds and how to open the package on another computer.
+
 ## Close documents
 
 **File → Close** (**Ctrl+W**, or **Cmd+W** on macOS) closes the active document, and **File → Close All** (**Ctrl+Alt+W**, or **Cmd+Option+W** on macOS) closes every open document. If a document has unsaved changes, VectorCraft asks whether to save them first.
@@ -304,6 +310,8 @@ To change these shortcuts, choose **Edit → Keyboard Shortcuts…**.
 ## Related
 
 - [Set up a document and artboards](/apps/vectorcraft/set-up-documents-and-artboards/)
+- [Save for older versions and other apps](/apps/vectorcraft/save-for-older-versions-and-other-apps/)
+- [Package a document with its links and fonts](/apps/vectorcraft/package-a-document/)
 - [Drag files into VectorCraft](/apps/vectorcraft/drop-files-into-vectorcraft/)
 - [Open and place PDF and .ai pages](/apps/vectorcraft/open-pdf-and-ai-pages/)
 - [Open and place DXF drawings](/apps/vectorcraft/open-and-place-dxf-drawings/)

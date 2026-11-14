@@ -17,6 +17,8 @@ Choose a panel in the **Window** menu to show it, and choose it again to hide it
 
 ![The Window menu open over a city skyline at dusk, with Help Bar, Contextual Task Bar and Tools checked, the panels listed alphabetically with their shortcuts, and the pointer on Layers, which is checked and shows F7.](/assets/uploads/vectorcraft/panels-window-menu.webp)
 
+The [View, Window and Help menus](/apps/vectorcraft/view-window-and-help-menus/) page covers the other items of the **Window** menu, such as **New Window**, **Arrange** and **Workspace**.
+
 Press Tab to hide the panels, the Tools panel and the Control bar, and press Tab again to show them. Press Shift+Tab to hide or show only the panels.
 
 In the Essentials workspace, the dock at the right edge of the window holds the Properties, Layers and Libraries panels as tabs. The column of icons beside it holds the other panels in groups:
@@ -151,8 +153,11 @@ A few items have conditions:
 
 - [Customize the workspace](/apps/vectorcraft/customize-the-workspace/)
 - [Keyboard shortcuts](/apps/vectorcraft/keyboard-shortcuts/)
+- [Tools reference](/apps/vectorcraft/tools-reference/)
 - [Right-click menus](/apps/vectorcraft/right-click-menus/)
 - [Object menu](/apps/vectorcraft/object-menu/)
+- [Type, Select and Effect menus](/apps/vectorcraft/type-select-and-effect-menus/)
+- [View, Window and Help menus](/apps/vectorcraft/view-window-and-help-menus/)
 - [Glossary](/apps/vectorcraft/glossary/)
 - [Fill, stroke and color](/apps/vectorcraft/fill-stroke-and-color/)
 - [Make 3D artwork](/apps/vectorcraft/make-3d-artwork/)

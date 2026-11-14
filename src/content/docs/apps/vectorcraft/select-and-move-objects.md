@@ -150,6 +150,7 @@ If you made the first copy in the **Move** dialog, you can also press **Enter** 
 - [Workflows](/apps/vectorcraft/workflows/)
 - [Select artwork](/apps/vectorcraft/select-artwork/)
 - [Draw and transform shapes](/apps/vectorcraft/draw-and-transform-shapes/)
+- [Rotate, reflect, scale and shear objects](/apps/vectorcraft/rotate-reflect-scale-and-shear-objects/)
 - [Transform strokes, corners and patterns](/apps/vectorcraft/transform-strokes-corners-and-patterns/)
 - [Arrange, group and align](/apps/vectorcraft/arrange-group-and-align/)
 - [Draw and edit paths](/apps/vectorcraft/draw-and-edit-paths/)

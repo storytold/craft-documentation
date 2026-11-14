@@ -34,7 +34,7 @@ A workspace is a saved arrangement of the bars, the Tools panel and the panels. 
 | **Typography** | Shown | Rulers, the Advanced toolbar and the Character panel open |
 | **Web** | Shown | Rulers, the Advanced toolbar and the Symbols panel open |
 
-The list also has a **Touch** workspace for touch screens. When **Enable Touch Workspace** is on in the Devices page of **Edit → Preferences…**, VectorCraft switches to Touch on a touch screen. When VectorCraft switched to Touch on its own, it switches back to the workspace you used before when you turn the preference off or it no longer finds a touch screen. If you chose Touch yourself, VectorCraft stays in Touch.
+The list also has a **Touch** workspace for touch screens. When **Enable Touch Workspace** is on in the Devices page of **Edit → Preferences…**, VectorCraft switches to Touch the first time you touch the screen. When VectorCraft switched to Touch on its own, it switches back to the workspace you used before when you turn the preference off. If you chose Touch yourself, VectorCraft stays in Touch. [Work on a touch screen](/apps/vectorcraft/work-on-a-touch-screen/) covers the Touch workspace, the finger gestures and drawing with a pen.
 
 VectorCraft keeps the layout changes you make in each workspace. When you switch away and come back, the panels are where you left them. Switching workspaces does not change the UI brightness.
 
@@ -320,6 +320,9 @@ To change these shortcuts, choose **Edit → Keyboard Shortcuts…**. The full l
 - [Panels](/apps/vectorcraft/panels/)
 - [Preferences](/apps/vectorcraft/preferences/)
 - [Change the look and language of VectorCraft](/apps/vectorcraft/change-the-look-and-language/)
+- [Work on a touch screen](/apps/vectorcraft/work-on-a-touch-screen/)
 - [Keyboard shortcuts](/apps/vectorcraft/keyboard-shortcuts/)
+- [Customize keyboard shortcuts](/apps/vectorcraft/customize-keyboard-shortcuts/)
+- [Back up and move your settings](/apps/vectorcraft/back-up-and-move-your-settings/)
 - [Set up a document and artboards](/apps/vectorcraft/set-up-documents-and-artboards/)
 - [Cut, join and refine paths](/apps/vectorcraft/cut-join-and-refine-paths/)

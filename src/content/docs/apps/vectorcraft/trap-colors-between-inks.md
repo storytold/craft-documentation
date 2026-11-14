@@ -94,6 +94,7 @@ When you save the trapped art as a PDF for a print shop, the **Output** section 
 
 ## Related
 
+- [Print color separations](/apps/vectorcraft/print-color-separations/)
 - [Prepare artwork for CMYK printing](/apps/vectorcraft/prepare-artwork-for-cmyk-print/)
 - [Manage color and proof for print](/apps/vectorcraft/manage-color-and-proof/)
 - [Combine and cut shapes](/apps/vectorcraft/combine-and-cut-shapes/)

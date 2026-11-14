@@ -34,7 +34,7 @@ Saving a view changes the document, so its tab shows an asterisk until you save 
 1. Open the **View** menu. The saved views are listed at its bottom, below **Edit Views…**, in the order you saved them.
 2. Choose the name of a view.
 
-The canvas moves to the position, zoom and rotation stored in the view. When the document is open in more than one window, only the window you are working in changes. To open another window on the same document, choose **Window → New Window**.
+The canvas moves to the position, zoom and rotation stored in the view. When the document is open in more than one window, only the window you are working in changes. To open another window on the same document, choose **Window → New Window**. See [Work in several windows](/apps/vectorcraft/work-in-several-windows/).
 
 ![The bottom of the View menu over the whole dusk garden at 70.12%, with New View… and Edit Views… above the saved views Whole Garden, Flower Bed, Fence and Moon. The pointer rests on Flower Bed](/assets/uploads/vectorcraft/save-and-recall-views-menu.webp)
 
@@ -75,4 +75,6 @@ If you clear a **Name** field, the view keeps its old name. If two views would e
 - [Workflows](/apps/vectorcraft/workflows/)
 - [Zoom and pan the canvas](/apps/vectorcraft/zoom-and-pan-the-canvas/)
 - [Rotate the view](/apps/vectorcraft/rotate-the-view/)
+- [Find your place with the Navigator panel](/apps/vectorcraft/find-your-place-with-the-navigator/)
+- [Work in several windows](/apps/vectorcraft/work-in-several-windows/)
 - [Open and save files](/apps/vectorcraft/open-and-save-files/)

@@ -177,8 +177,10 @@ Hold the keys for the Hand tool and the Zoom tool before you press the mouse but
 ## Related
 
 - [Workflows](/apps/vectorcraft/workflows/)
+- [Find your place with the Navigator panel](/apps/vectorcraft/find-your-place-with-the-navigator/)
 - [Rotate the view](/apps/vectorcraft/rotate-the-view/)
 - [Save and recall views](/apps/vectorcraft/save-and-recall-views/)
+- [Work in several windows](/apps/vectorcraft/work-in-several-windows/)
 - [Switch between Outline, Preview and Pixel Preview](/apps/vectorcraft/switch-outline-and-preview-modes/)
 - [Present and use screen modes](/apps/vectorcraft/present-and-use-screen-modes/)
 - [Getting started](/apps/vectorcraft/getting-started/)
