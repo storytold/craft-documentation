@@ -6,9 +6,9 @@ sidebar:
 type: reference
 category: Reference
 subcategory: Reference
-parent: workflows
 cover: /assets/uploads/vectorcraft/keyboard-shortcuts-search-commands.webp
 summary: Look up every default shortcut by menu and tool.
+parent: workflows
 ---
 
 This page lists every keyboard shortcut VectorCraft has by default, for Windows and Linux and for macOS. Where Windows and Linux use Ctrl, macOS uses Cmd, and where they use Alt, macOS uses Option.
@@ -419,6 +419,9 @@ This works while **Hold a Tool Shortcut to Use the Tool Temporarily** is on, und
 - [Run scripts](/apps/vectorcraft/run-scripts/)
 - [Copy and paste between apps](/apps/vectorcraft/copy-and-paste-between-apps/)
 - [Panels](/apps/vectorcraft/panels/)
+- [Object menu](/apps/vectorcraft/object-menu/)
+- [Right-click menus](/apps/vectorcraft/right-click-menus/)
+- [Glossary](/apps/vectorcraft/glossary/)
 - [Draw and edit paths](/apps/vectorcraft/draw-and-edit-paths/)
 - [Preferences](/apps/vectorcraft/preferences/)
 - [Customize the workspace](/apps/vectorcraft/customize-the-workspace/)

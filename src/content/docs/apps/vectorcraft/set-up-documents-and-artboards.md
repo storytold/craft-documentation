@@ -271,7 +271,7 @@ The grid and the snapping commands are in the **View** menu:
 | **Snap to Glyph** | None | None | Snaps art you draw to the bounds of live type, and on a single line of type to its baseline, x-height, character widths and glyph anchor points | Off |
 | **Smart Guides** | Ctrl+U | Cmd+U | Shows temporary guides and snaps to the edges, centers and anchor points of art and artboards | On |
 
-The **Snapping** menu at the left of the Control bar has **Smart Guides**, **Snap to Point**, **Snap to Grid**, **Snap to Pixel** and **Snap to Glyph**, then **Alignment Guides**, **Snap to Tangent** and **Snap to Perpendicular**. **Alignment Guides** is the same setting as **Preferences → Smart Guides → Alignment Guides**, and it is on by default. To show the Control bar, choose **Window → Control**. In a narrow window, the Control bar leaves the Snapping menu out while the Artboard tool is active.
+The **Snapping** menu at the left of the Control bar has **Smart Guides**, **Snap to Point**, **Snap to Grid**, **Snap to Pixel** and **Snap to Glyph**, then **Alignment Guides**, **Snap to Tangent** and **Snap to Perpendicular**. **Alignment Guides** is the same setting as **Preferences → Smart Guides → Alignment Guides**, and it is on by default. To show the Control bar, choose **Window → Control**. In a narrow window, the Control bar leaves the Snapping menu out while the Artboard tool is active. To set up the grid and snap art to it, see [Draw on the grid](/apps/vectorcraft/draw-on-the-grid/).
 
 The grid spacing, the grid and guide colors and the Smart Guides options are in [Preferences](/apps/vectorcraft/preferences/): see [Guides & Grid](/apps/vectorcraft/preferences/#guides--grid), [Smart Guides](/apps/vectorcraft/preferences/#smart-guides) and [Units](/apps/vectorcraft/preferences/#units).
 
@@ -279,6 +279,7 @@ The grid spacing, the grid and guide colors and the Smart Guides options are in 
 
 - [Workflows](/apps/vectorcraft/workflows/)
 - [Manage artboards](/apps/vectorcraft/manage-artboards/)
+- [Draw on the grid](/apps/vectorcraft/draw-on-the-grid/)
 - [Copy and paste between apps](/apps/vectorcraft/copy-and-paste-between-apps/)
 - [Draw and transform shapes](/apps/vectorcraft/draw-and-transform-shapes/)
 - [Open and save files](/apps/vectorcraft/open-and-save-files/)

@@ -1,20 +1,39 @@
 ---
 title: Panels
-description: Every panel, library and bar in VectorCraft's Window menu, with what each one does, its default shortcut and the guide that covers it.
+description: Every panel, library and bar in VectorCraft's Window menu, with what each one does, its default shortcut, the guide that covers it and the commands in its panel menu.
 sidebar:
   order: 31.4
 type: reference
 category: Reference
 subcategory: Reference
-parent: workflows
+cover: /assets/uploads/vectorcraft/panels-window-menu.webp
 summary: Find out what each panel in the Window menu does.
+parent: workflows
 ---
 
 This page lists every panel, library and bar that the **Window** menu opens, with what each one does, its default shortcut and the guide that covers it.
 
 Choose a panel in the **Window** menu to show it, and choose it again to hide it. The menu lists the panels in alphabetical order in your interface language. To find a panel by name, choose **Help → Search Commands…** (**Ctrl+Shift+/**, or **Cmd+Shift+/** on macOS) and type part of its name. A panel with no default shortcut can be given one in **Edit → Keyboard Shortcuts…**, where the panels are listed under Window on the **Menu Commands** tab.
 
+![The Window menu open over a city skyline at dusk, with Help Bar, Contextual Task Bar and Tools checked, the panels listed alphabetically with their shortcuts, and the pointer on Layers, which is checked and shows F7.](/assets/uploads/vectorcraft/panels-window-menu.webp)
+
 Press Tab to hide the panels, the Tools panel and the Control bar, and press Tab again to show them. Press Shift+Tab to hide or show only the panels.
+
+In the Essentials workspace, the dock at the right edge of the window holds the Properties, Layers and Libraries panels as tabs. The column of icons beside it holds the other panels in groups:
+
+- Color and Color Guide
+- Swatches, Brushes, Symbols and Pattern Options
+- Stroke, Gradient and Transparency
+- Appearance and Graphic Styles
+- Artboards
+- Transform, Align and Pathfinder
+- Character, Paragraph and Glyphs
+- History, Actions, Info and Navigator
+- Variables
+
+When you choose a panel in the **Window** menu that sits in the icon column, its group opens as a flyout panel beside the column. Choose the panel again to put the flyout away. The » button next to the flyout's ≡ button also collapses it back to icons.
+
+![The Essentials dock with the Layers panel in front, listing the Type, Harbor and Background layers of a harbor scene, and the Swatches panel open as a flyout from the icon column with its Brushes, Symbols and Pattern Options tabs beside it.](/assets/uploads/vectorcraft/panels-dock-groups.webp)
 
 ## Panels
 
@@ -100,10 +119,41 @@ These items are at the top of the **Window** menu, under **Workspace**. None of 
 
 **Keep Tools Beside the Canvas** docks the Tools panel between the left-side panels and the canvas instead of at the window's left edge. It is off by default.
 
+## Panel menus
+
+Click the ≡ button at the right end of a panel's tab strip to open its panel menu. Every panel menu ends with **Float Panel**, which moves the panel out of the dock into a window of its own. In a floating panel, the item reads **Dock Panel** and puts the panel back in the dock. Items that cannot run on the current document, selection or panel rows are dimmed.
+
+![The Layers panel menu open beside the Layers panel, listing New Layer… through Panel Options… and Float Panel, with Merge Selected, Reverse Order and Template dimmed.](/assets/uploads/vectorcraft/panels-layers-menu.webp)
+
+The table lists each menu's items from top to bottom, with each group between separators on its own line. Where an item's name changes with the state, both names are given.
+
+| Panel | Panel menu items |
+|---|---|
+| Layers | **New Layer…**, **New Sublayer…**, **Duplicate Selection**, **Delete Selection**, **Options for Selection…**<br>**Make/Release Clipping Mask**<br>**Enter Isolation Mode** (**Exit Isolation Mode** while you are in isolation mode)<br>**Locate Object**, **Save Selection** (a submenu with **Save Selection…**, **Update Selection**, **Edit Selection…** and the document's saved selections)<br>**Merge Selected**, **Flatten Artwork**, **Collect in New Layer**, **Collect for Export** (**As Single Asset** or **As Multiple Assets**), **Release to Layers (Sequence)**, **Release to Layers (Build)**, **Reverse Order**<br>**Template**, **Hide Others** or **Show All Layers**, **Outline Others** or **Preview All Layers**, **Lock Others** or **Unlock All Layers**<br>**Paste Remembers Layers**<br>**Panel Options…** |
+| Swatches | **New Swatch…**, **New Color Group…**, **Duplicate Swatch**, **Merge Swatches**, **Delete Swatch**, **Edit or Apply Color Group…**, **Ungroup Color Group**, **Select All Unused**, **Add Used Colors**<br>**Sort by Name**, **Sort by Kind**<br>**Small Thumbnail View**, **Medium Thumbnail View**, **Large Thumbnail View**, **Small List View**, **Large List View**<br>**Show Find Field**<br>**Swatch Options…**, **Spot Colors…**<br>**Open Swatch Library**, **Save Swatch Library…** |
+| Transparency | **Hide Thumbnails** or **Show Thumbnails**, **Hide Options** or **Show Options**<br>**Make Opacity Mask**, **Release Opacity Mask**, **Disable Opacity Mask** or **Enable Opacity Mask**, **Unlink Opacity Mask** or **Link Opacity Mask**<br>**New Opacity Masks Are Clipping**, **New Opacity Masks Are Inverted**<br>**Page Isolated Blending**, **Page Knockout Group** |
+| Graphic Styles | **New Graphic Style…**, **Duplicate Graphic Style**, **Merge Graphic Styles**, **Delete Graphic Style**, **Break Link to Graphic Style**<br>**Select All Unused**, **Sort by Name**<br>**Thumbnail View**, **Small List View**, **Large List View**<br>**Use Square for Previews**, **Use Text for Previews**, **Override Character Color**<br>**Graphic Style Options…**, **Open Graphic Style Library**, **Save Graphic Style Library…** |
+| Appearance | **Add New Fill**, **Add New Stroke**<br>**Duplicate Item**, **Remove Item**, **Clear Appearance**, **Reduce to Basic Appearance**<br>**New Art Has Basic Appearance**, **Hide Thumbnail** or **Show Thumbnail**<br>**Redefine Graphic Style** (with the name of the selection's graphic style), **Show All Hidden Attributes** |
+| Character Styles | **New Character Style…**, **Duplicate Character Style**, **Delete Character Style**, **Select All Unused**<br>**Clear Overrides**, **Redefine Character Style**, **Character Style Options…**<br>**Load Character Styles…**, **Load All Styles…** |
+| Paragraph Styles | **New Paragraph Style…**, **Duplicate Paragraph Style**, **Delete Paragraph Style**, **Select All Unused**<br>**Clear Overrides**, **Redefine Paragraph Style**, **Paragraph Style Options…**<br>**Load Paragraph Styles…**, **Load All Styles…** |
+| Variables | **New Variable…**, **Variable Options…**, **Make Text Dynamic**, **Make Visibility Dynamic**, **Make Image Dynamic**, **Make Graph Dynamic**, **Unbind Variable**, **Delete Variable**, **Lock Variables** or **Unlock Variables**<br>**Capture Data Set**, **Update Data Set**, **New Data Set…**, **Edit Data Set…**, **Rename Data Set…**, **Delete Data Set**<br>**Import Data Sets…**, **Export Data Sets…**, **Load Variable Library…**, **Save Variable Library…**<br>**Select Bound Object**, **Select All Bound Objects** |
+| Pathfinder | **Trap…**, **Repeat Pathfinder** (named after the last operation once you have used one), **Pathfinder Options…**<br>**Make Compound Shape**, **Release Compound Shape**, **Expand Compound Shape** |
+| Artboards | **New Artboard**, **Duplicate Artboards**, **Delete Artboards**, **Rename**, **Delete Empty Artboards**<br>**Convert to Artboards**, **Artboard Options…**, **Rearrange All Artboards…**<br>**Fit to Artwork Bounds** |
+
+A few items have conditions:
+
+- **Merge Selected** and **Reverse Order** in the Layers panel menu need two or more highlighted rows.
+- **Delete Artboards** needs more than one artboard in the document.
+- **Import Data Sets…** reads a `.csv`, `.tsv` or `.txt` file, and **Export Data Sets…** writes a `.csv` file. **Load Variable Library…** reads an `.xml` file, and **Save Variable Library…** needs at least one text variable.
+- **Open Swatch Library** and **Open Graphic Style Library** are submenus of libraries. Choosing a library opens it in a panel of its own, as the submenus in [Libraries](#libraries) do.
+
 ## Related
 
 - [Customize the workspace](/apps/vectorcraft/customize-the-workspace/)
 - [Keyboard shortcuts](/apps/vectorcraft/keyboard-shortcuts/)
+- [Right-click menus](/apps/vectorcraft/right-click-menus/)
+- [Object menu](/apps/vectorcraft/object-menu/)
+- [Glossary](/apps/vectorcraft/glossary/)
 - [Fill, stroke and color](/apps/vectorcraft/fill-stroke-and-color/)
 - [Make 3D artwork](/apps/vectorcraft/make-3d-artwork/)
 - [Run scripts](/apps/vectorcraft/run-scripts/)
